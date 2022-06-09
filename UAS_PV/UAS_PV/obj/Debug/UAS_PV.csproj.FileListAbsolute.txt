@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.MainForm.resources
+C:\Users\USER\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\bin\Debug\UAS_PV.exe
+C:\Users\USER\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\bin\Debug\UAS_PV.pdb
+C:\Users\USER\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.exe
+C:\Users\USER\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.pdb
